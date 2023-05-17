@@ -1,4 +1,4 @@
-<p color="blue">INTRODUÇÃO A LÓGICA DE PROGRAMAÇÃO EM C - Eventos IFMT</p>
+<h1 color="blue">INTRODUÇÃO A LÓGICA DE PROGRAMAÇÃO EM C - Eventos IFMT</h1>
 
  <img src="logooet.png"></img>
 
