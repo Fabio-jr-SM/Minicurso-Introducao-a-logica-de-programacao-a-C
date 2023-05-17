@@ -4,7 +4,7 @@
 int main()
 {
     float num;
-    printf("Digite um numero inteiro: ");
+    printf("Digite um numero real: ");
     scanf("%f",&num);
     num=num*num;
     printf("\nO numero ao quadrado é: %f",num);
