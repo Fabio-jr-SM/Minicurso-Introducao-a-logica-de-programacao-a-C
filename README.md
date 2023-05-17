@@ -1,5 +1,5 @@
 
-<body>
+
     <h1 style="color: blue; font-family: Verdana; text-align: center;" >INTRODUÇÃO A LÓGICA DE PROGRAMAÇÃO EM C - Eventos IFMT</h1>
 
     <div style="text-align: center;">
@@ -12,6 +12,5 @@
     que os alunos estejam aptos a escrever programas simples em C e a resolver problemas utilizando programação.</p>
 
 
-</body>
 
-</html>
+
