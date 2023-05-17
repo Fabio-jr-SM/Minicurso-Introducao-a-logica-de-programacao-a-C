@@ -1,6 +1,6 @@
 # INTRODUÇÃO A LÓGICA DE PROGRAMAÇÃO EM C - Eventos IFMT
 
-<a>
+<a text-aling="center">
   <img src="logooet.png"></img>
 </a>
 
