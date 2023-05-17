@@ -3,7 +3,7 @@
 <h1 style="color: blue; font-family: Verdana; text-align: center;" >INTRODUÇÃO A LÓGICA DE PROGRAMAÇÃO EM C - Eventos IFMT</h1>
 
 <div style="text-align: center;">
-<img src="logooet.png"></img>
+  <img src="logooet.png"></img>
 </div>
 
 <p style="font-family: verdana; text-align: center;"> O objetivo desse minicurso é proporcionar aos alunos uma base sólida em lógica de programação utilizando a
