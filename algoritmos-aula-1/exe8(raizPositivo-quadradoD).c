@@ -10,7 +10,7 @@ int main()
     printf("Digite dois numeros:\n");
     scanf("%f",&a);
     
-    if(a>+0){
+    if(a>0){
         raiz=sqrt(a);
         printf("Raiz quadrada é: %f",raiz);
     } else if(a<0){
