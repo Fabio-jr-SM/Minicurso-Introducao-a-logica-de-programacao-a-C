@@ -1,5 +1,5 @@
 
-<h1 style="color: blue; font-family: Verdana; text-align: center;" >INTRODUÇÃO A LÓGICA DE PROGRAMAÇÃO EM C - Eventos IFMT</h1>
+<h1 style="color: blue; font-family: Verdana; text-align: center;" > PARTICIPAÇÃO DO CURSO DE INTRODUÇÃO A LÓGICA DE PROGRAMAÇÃO EM C OFERECIDO PELO PETAUTONET - Eventos IFMT</h1>
 
 <p align="center">
   <img src="logooet.png"></img>
