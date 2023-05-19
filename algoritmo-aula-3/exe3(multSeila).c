@@ -12,14 +12,14 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 int main()
 {
-    int i,j,matriz[4][4];
+    char i,j,matriz[3][3];
     
     
     printf("Matriz:");
-    for(i=0;i<4;i++){
+    for(i=0;i<3;i++){
         printf("\n");
-        for(j=0;j<4;j++){
-            matriz[i][j]=(i+1)+(j+1);
+        for(j=0;j<3;j++){
+            matriz[i][j]=(i+1)*(j+1);
             printf("%d ",matriz[i][j]);
         }
     }
